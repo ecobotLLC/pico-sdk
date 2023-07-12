@@ -11,11 +11,11 @@
 
 // This header may be included by other board headers as "boards/pico.h"
 
-#ifndef _BOARDS_PICO_H
-#define _BOARDS_PICO_H
+#ifndef _BOARDS_ECOBOT_ECOBOUZU_H
+#define _BOARDS_ECOBOT_ECOBOUZU_H
 
 // For board detection
-#define RASPBERRYPI_PICO
+#define ECOBOT_ECOBOUZU
 
 // --- UART ---
 #ifndef PICO_DEFAULT_UART
